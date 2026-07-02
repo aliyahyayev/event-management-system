@@ -1,10 +1,10 @@
-# 📅 EventPass - Event Management System
+# Event Management System
 
-A minimalist, high-performance Event Management System featuring a secure Express.js backend coupled with a modern, production-ready corporate dashboard built with Tailwind CSS.
+A simple event manager that provides to register or cancel events those exist on the system. Besides, there is a admin mode and in this mode user can add or delete events.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack
 
 This repository showcases a decoupled, lightweight full-stack architecture optimized for speed, data persistence, and professional user experiences.
 
@@ -14,18 +14,7 @@ This repository showcases a decoupled, lightweight full-stack architecture optim
 * **Database Engine:** SQLite3 (Relational database management via local storage)
 * **API Architecture:** RESTful APIs (Structured request/response pipelines)
 
-### Frontend & UI
-* **User Interface:** Vanilla JavaScript (Asynchronous state tracking & fetch operations)
-* **Styling Framework:** Tailwind CSS (Premium corporate palette utilizing the modern Slate profile)
-* **Component Architecture:** Virtual modals and sliding toast alerts (Zero raw browser alerts used to secure standard browser loops)
-
 ---
-
-## 📐 System Workflow
-
-The following model demonstrates how data flows dynamically between the client browser, system state, and database persistence layer without requiring page refreshes.
-
-
 
 1. **Authentication:** Users sign up or authenticate. Passing `admin123` elevates authorization scopes to Admin status dynamically.
 2. **Session Persistence:** Login states, user roles, and access coordinates are safely managed via `localStorage` to guard against unintended hard refreshes.
@@ -41,18 +30,9 @@ Here is a visual glance at the premium corporate user interface running dynamica
 ### 1. Administrative Control Panel
 *Admins can seamlessly publish new events with strict validation fields.*
 
-![Admin Control Panel](events2.png)
+<img width="1470" height="612" alt="events2" src="https://github.com/user-attachments/assets/cccc7479-7874-47c7-bb05-e0a288033901" />
 
 ### 2. Available Events & Registrations
 *Clean, grid-based presentation displaying real-time capacities and interactive actions.*
 
-![Available Events Dashboard](events1.png)
-
----
-
-## 🚀 Getting Started Locally
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/aliyahyayev/event-management-system.git](https://github.com/aliyahyayev/event-management-system.git)
-cd event-management-system
+<img width="1462" height="872" alt="events1" src="https://github.com/user-attachments/assets/bda09553-c634-4a66-87c8-2ef9fb69433f" />
