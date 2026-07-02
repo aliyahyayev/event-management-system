@@ -40,10 +40,12 @@ Here is a visual glance at the premium corporate user interface running dynamica
 
 ### 1. Administrative Control Panel
 *Admins can seamlessly publish new events with strict validation fields.*
+
 ![Admin Control Panel](events2.png)
 
 ### 2. Available Events & Registrations
 *Clean, grid-based presentation displaying real-time capacities and interactive actions.*
+
 ![Available Events Dashboard](events1.png)
 
 ---
