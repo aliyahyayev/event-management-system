@@ -38,13 +38,13 @@ The following model demonstrates how data flows dynamically between the client b
 
 Here is a visual glance at the premium corporate user interface running dynamically:
 
-### Modern Dashboard Interface
-*Clean lines, real-time analytics indicators, and contextual actions.*
-![Dashboard View](https://github.com/aliyahyayev/event-management-system/raw/main/screenshots/dashboard.png)
+### 1. Administrative Control Panel
+*Admins can seamlessly publish new events with strict validation fields.*
+![Admin Control Panel](events2.png)
 
-### In-App Context Alerts
-*Dynamic slide-in notification toasts replacing typical native browser popups.*
-![Toast View](https://github.com/aliyahyayev/event-management-system/raw/main/screenshots/toasts.png)
+### 2. Available Events & Registrations
+*Clean, grid-based presentation displaying real-time capacities and interactive actions.*
+![Available Events Dashboard](events1.png)
 
 ---
 
